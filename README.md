@@ -5,8 +5,8 @@ To identify online payment fraud with machine learning
 ...
 
 # Dataset 
-Name: Online Payment Fraud Detection
-link: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection 
+- Name: Online Payment Fraud Detection
+- Link: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection 
 
 
 ## Main dataset issues
